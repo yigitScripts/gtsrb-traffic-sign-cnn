@@ -1,0 +1,10 @@
+# Mac
+.DS_Store
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+
+# Model files and generated images
+*.pt
+sample_images/
