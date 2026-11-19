@@ -8,3 +8,4 @@ __pycache__/
 # Model files and generated images
 *.pt
 sample_images/
+*.onnx
